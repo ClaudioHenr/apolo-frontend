@@ -1,27 +1,31 @@
-# ApoloFrontend
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+###
 
-## Development server
+<h1 align="left">Apolo - Sistema de Gestão</h1>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+###
 
-## Code scaffolding
+<p align="left">Bem, já trabalhei em setores que lidavam com diversas tarefas ao mesmo tempo, e muitas vezes esses setores são responsáveis pela gestão de projetos ou outras responsabilidades. Independentemente da responsabilidade, uma constante é o uso da ferramenta Excel nessas situações, seja o Excel Online ou o SharePoint, permitindo que vários usuários façam modificações simultaneamente. Já me deparei com as vantagens e desvantagens dessa prática.<br><br>Sem me alongar, em um desses setores tive o desafio de substituir o uso dessas ferramentas online<br><br>Na época, utilizei o Power Apps por ser uma solução mais rápida de implementar e porque minhas habilidades técnicas ainda não estavam maduras o suficiente. Apesar das limitações do PA, o sistema atendeu aos usuários, mas sempre tive a sensação de que poderia ter sido melhor...<br><br>Este projeto visa reconstruir aquele sistema utilizando uma tecnologia mais robusta, sem as limitações anteriores, que possa atender melhor às necessidades dos usuários e seja mais escalável.</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+###
 
-## Build
+<h2 align="left">Objetivos</h2>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+###
 
-## Running unit tests
+<p align="left">Um sistema simples e fácil de usar, que possa suprimir a necessidade de um usuário básico de Sharepoint online.</p>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+###
 
-## Running end-to-end tests
+<h2 align="left">Resultados</h2>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+###
